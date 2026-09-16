@@ -27,7 +27,7 @@ AI시대에 하나의 기술을 집중하는 것도 중요하지만 다양한 �
 | 프로젝트 | 한 줄 소개 | 역할 | 핵심 기술 |
 |---|---|:---:|---|
 | **[🏖️ Leave](https://github.com/hokyun-tazo/Leave)** | 개인 연차 관리 앱 — **실서비스 배포 · 운영** | 1인 개발 | `Flutter` `Spring Boot 3` `Java 21` `PostgreSQL` `Docker` `Nginx` `GitHub Actions` |
-| **[🎧 ODI](https://github.com/hokyun-tazo/OD)** | 사용자 맞춤 음성 오디오북 플랫폼 | Backend | `Django 5` `DRF` `PostgreSQL` `AWS(EC2·S3·RDS)` `OAuth2` `JWT` `TTS·RVC` |
+| **[🎧 O :D](https://github.com/hokyun-tazo/OD)** | 사용자 맞춤 음성 오디오북 플랫폼 | Backend | `Django 5` `DRF` `PostgreSQL` `AWS(EC2·S3·RDS)` `OAuth2` `JWT` `TTS·RVC` |
 | **[📈 NH 빅데이터 경진대회](https://github.com/hokyun-tazo/NH_Competition)** | 한·미·중 섹터 주가 상관관계 분석 | 데이터 수집 · 중국 분석 | `Python` `pandas` `SciPy` `BeautifulSoup` `yfinance` |
 | **[🏠 Togethers](https://github.com/hokyun-tazo/CapStone_NSU)** | 룸메이트 매칭 플랫폼 (캡스톤 디자인) | Backend | `Spring Boot 2.7` `JPA` `MySQL` `Thymeleaf` `JWT` `WebSocket` |
 
