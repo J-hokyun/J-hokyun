@@ -131,5 +131,3 @@
         <img src="https://img.shields.io/badge/wjdghrbs2468@naver.com-03C75A?style=plastic&logo=naver&logoColor=white"/>
     </a>
 </span>
-
-![footer](https://capsule-render.vercel.app/api?type=Rounded&color=FAEF9B&height=120&section=footer)
