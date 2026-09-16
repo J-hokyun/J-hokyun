@@ -74,7 +74,6 @@ AI 시대에는 하나의 기술을 깊게 파는 것만큼, 다양한 기술을
     <img src="https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DRF-A30000?style=plastic&logo=django&logoColor=white"/>
     <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white"/>
 </span>
 
