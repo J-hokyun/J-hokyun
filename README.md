@@ -27,7 +27,7 @@ AI 시대에는 하나의 기술을 깊게 파는 것만큼, 다양한 기술을
 |---|---|:---:|---|
 | **[🏖️ Leave](https://github.com/J-hokyun/Leave)** | 개인 연차 관리 앱 — **실서비스 배포 · 운영** | 1인 개발 | `Flutter` `Spring Boot 3` `Java 21` `PostgreSQL` `Docker` `Nginx` `GitHub Actions` |
 | **[🎧 O :D](https://github.com/J-hokyun/OD)** | 사용자 맞춤 음성 오디오북 플랫폼 | Backend | `Django 5` `PostgreSQL` `AWS(EC2·S3·RDS)` `OAuth2` `JWT` `TTS·RVC` |
-| **[📈 NH 빅데이터 경진대회](https://github.com/J-hokyun/NH_Competition)** | 한·미·중 섹터 주가 상관관계 분석 | 데이터 수집 · 중국 분석 | `Python` `pandas` `SciPy` `BeautifulSoup` |
+| **[📈 NH 빅데이터 경진대회](https://github.com/J-hokyun/NH** | 한·미·중 섹터 주가 상관관계 분석 | 데이터 수집 · 중국 분석 | `Python` `pandas` `SciPy` `BeautifulSoup` |
 | **[🏠 Togethers](https://github.com/J-hokyun/CapStone_NSU)** | 룸메이트 매칭 플랫폼 (캡스톤 디자인) | Backend | `Spring Boot 2.7` `JPA` `MySQL` `Thymeleaf` `JWT` |
 
 <br/>
